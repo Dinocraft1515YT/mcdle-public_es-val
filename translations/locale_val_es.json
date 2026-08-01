@@ -1361,7 +1361,8 @@
 		"golden_dandelion": "Dent de lleó daurat",
 		"cinnabar": "Cinabri",
 		"sulfur": "Sofre",
-		"sulfur_spike": "Pic de sofre"
+		"sulfur_spike": "Pic de sofre",
+		"straw_bed": "Llit de paya"
 	},
 	"items": {
 		"boat": "Barca",
@@ -1562,7 +1563,8 @@
 		"copper_nugget": "Palleta de coure",
 		"spear": "Llança",
 		"nautilus_armor": "Armadura de netherita per a nautilus",
-		"bucket_of_sulfure_cube": "Poal amb cub de sofre"
+		"bucket_of_sulfure_cube": "Poal amb cub de sofre",
+		"cushion": "Coixí"
 	},
 	"mobs": {
 		"allay": "Allay",

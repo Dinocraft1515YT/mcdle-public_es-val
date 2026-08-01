@@ -1361,7 +1361,8 @@
 		"golden_dandelion": "Золотой одуванчик",
 		"cinnabar": "Киноварь",
 		"sulfur": "Сера",
-		"sulfur_spike": "Серный шип"
+		"sulfur_spike": "Серный шип",
+		"straw_bed": "🌍Straw Bed"
 	},
 	"items": {
 		"boat": "Лодка",
@@ -1562,7 +1563,8 @@
 		"copper_nugget": "Кусочек меди",
 		"spear": "Копьё",
 		"nautilus_armor": "Броня наутилуса",
-		"bucket_of_sulfure_cube": "Серный куб в ведре"
+		"bucket_of_sulfure_cube": "Серный куб в ведре",
+		"cushion": "🌍Cushion"
 	},
 	"mobs": {
 		"allay": "Тихоня",

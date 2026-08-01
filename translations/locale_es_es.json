@@ -1359,7 +1359,8 @@
 		"golden_dandelion": "Diente de león dorado",
 		"cinnabar": "Cinabrio",
 		"sulfur": "Azufre",
-		"sulfur_spike": "Azufre puntiagudo"
+		"sulfur_spike": "Azufre puntiagudo",
+		"straw_bed": "Cama de paja"
 	},
 	"items": {
 		"boat": "Barca",
@@ -1560,7 +1561,8 @@
 		"copper_nugget": "Pepita de cobre",
 		"spear": "Lanza",
 		"nautilus_armor": "Armadura de netherita para nautilo",
-		"bucket_of_sulfure_cube": "Cubo con cubo de azufre"
+		"bucket_of_sulfure_cube": "Cubo con cubo de azufre",
+		"cushion": "Cojín"
 	},
 	"mobs": {
 		"allay": "Allay",

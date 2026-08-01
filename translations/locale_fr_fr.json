@@ -1562,7 +1562,7 @@
 		"copper_nugget": "Pépite de cuivre",
 		"spear": "Lance",
 		"nautilus_armor": "Armure pour nautile",
-		"sulfur_cube_bucket": "Cube de soufre dans un seau"
+		"bucket_of_sulfure_cube": "Cube de soufre dans un seau"
 	},
 	"mobs": {
 		"allay": "Allay",

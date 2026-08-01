@@ -1361,7 +1361,8 @@
 		"golden_dandelion": "Goldlöwenzahn",
 		"cinnabar": "Zinnober",
 		"sulfur": "Schwefelblock",
-		"sulfur_spike": "Schwefelzapfen"
+		"sulfur_spike": "Schwefelzapfen",
+		"straw_bed": "🌍Straw Bed"
 	},
 	"items": {
 		"boat": "Holzboot",
@@ -1562,7 +1563,8 @@
 		"copper_nugget": "Kupferklumpen",
 		"spear": "Speer",
 		"nautilus_armor": "Nautiluspanzer",
-		"bucket_of_sulfure_cube": "Schwefelwürfeleimer"
+		"bucket_of_sulfure_cube": "Schwefelwürfeleimer",
+		"cushion": "🌍Cushion"
 	},
 	"mobs": {
 		"allay": "Hilfsgeist",

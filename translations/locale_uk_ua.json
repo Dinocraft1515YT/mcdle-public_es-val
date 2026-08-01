@@ -1361,7 +1361,8 @@
 		"golden_dandelion": "Золота кульбаба",
 		"cinnabar": "Кіновар",
 		"sulfur": "Сірка",
-		"sulfur_spike": "Сірчаний шип"
+		"sulfur_spike": "Сірчаний шип",
+		"straw_bed": "🌍Straw Bed"
 	},
 	"items": {
 		"boat": "Акацієвий човен",
@@ -1562,7 +1563,8 @@
 		"copper_nugget": "Мідний самородок",
 		"spear": "Дерев'яний спис",
 		"nautilus_armor": "Незеритові обладунки навтилуса",
-		"bucket_of_sulfure_cube": "Відро із сіркокубом"
+		"bucket_of_sulfure_cube": "Відро із сіркокубом",
+		"cushion": "🌍Cushion"
 	},
 	"mobs": {
 		"allay": "Збирик",

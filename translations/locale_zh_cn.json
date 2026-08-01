@@ -1363,7 +1363,8 @@
 		"golden_dandelion": "金蒲公英",
 		"cinnabar": "朱砂",
 		"sulfur": "硫黄",
-		"sulfur_spike": "硫黄尖锥"
+		"sulfur_spike": "硫黄尖锥",
+		"straw_bed": "🌍Straw Bed"
 	},
 	"items": {
 		"boat": "橡木船",
@@ -1564,7 +1565,8 @@
 		"copper_nugget": "铜粒",
 		"spear": "钻石矛",
 		"nautilus_armor": "铁鹦鹉螺铠",
-		"bucket_of_sulfure_cube": "硫方怪桶"
+		"bucket_of_sulfure_cube": "硫方怪桶",
+		"cushion": "🌍Cushion"
 	},
 	"mobs": {
 		"allay": "悦灵",

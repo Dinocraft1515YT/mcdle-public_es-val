@@ -1361,7 +1361,8 @@
 		"golden_dandelion": "Aranypitypang",
 		"cinnabar": "Cinóber",
 		"sulfur": "Kén",
-		"sulfur_spike": "Kéntüske"
+		"sulfur_spike": "Kéntüske",
+		"straw_bed": "🌍Straw Bed"
 	},
 	"items": {
 		"boat": "Akáciafa csónak",
@@ -1562,7 +1563,8 @@
 		"copper_nugget": "Rézrög",
 		"spear": "Falándzsa",
 		"nautilus_armor": "Netherit nautiluszpáncél",
-		"bucket_of_sulfure_cube": "Kénkocka vödörben"
+		"bucket_of_sulfure_cube": "Kénkocka vödörben",
+		"cushion": "🌍Cushion"
 	},
 	"mobs": {
 		"allay": "Nyugtancs",
